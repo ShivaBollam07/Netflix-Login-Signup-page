@@ -1,3 +1,8 @@
+outputs:
+Login page
+![Screenshot_20230228_105743](https://user-images.githubusercontent.com/98306948/223107120-94e7d712-b7df-4e56-9627-d8d06f112c81.png)
+SignUp page:
+![Screenshot_20230228_105832](https://user-images.githubusercontent.com/98306948/223107183-25fadbc6-b6dd-42a2-96bd-4ee0e1baa49b.png)
 
 
 # Getting Started with Create React App
